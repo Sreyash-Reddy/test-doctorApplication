@@ -9,4 +9,7 @@ public class DoctorApplicationController {
 
     @Autowired
     private DoctorApplicationService doctorApplicationService;
+
+
+
 }
